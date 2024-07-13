@@ -4,7 +4,7 @@ import SignUp from './components/SignUp';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Yerbamate-enjoyers-inc">
       <Routes>
         <Route path="/" element={<SignUp />} />
       </Routes>
