@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/merxgrc/Yerbamate-enjoyers-inc.git/static/css/main.ebc25852.css",
-    "main.js": "/merxgrc/Yerbamate-enjoyers-inc.git/static/js/main.9681eec5.js",
-    "static/js/453.d0cf7433.chunk.js": "/merxgrc/Yerbamate-enjoyers-inc.git/static/js/453.d0cf7433.chunk.js",
-    "index.html": "/merxgrc/Yerbamate-enjoyers-inc.git/index.html",
-    "main.ebc25852.css.map": "/merxgrc/Yerbamate-enjoyers-inc.git/static/css/main.ebc25852.css.map",
-    "main.9681eec5.js.map": "/merxgrc/Yerbamate-enjoyers-inc.git/static/js/main.9681eec5.js.map",
-    "453.d0cf7433.chunk.js.map": "/merxgrc/Yerbamate-enjoyers-inc.git/static/js/453.d0cf7433.chunk.js.map"
+    "main.css": "/Yerbamate-enjoyers-inc.git/static/css/main.ebc25852.css",
+    "main.js": "/Yerbamate-enjoyers-inc.git/static/js/main.3af272a3.js",
+    "static/js/453.d0cf7433.chunk.js": "/Yerbamate-enjoyers-inc.git/static/js/453.d0cf7433.chunk.js",
+    "index.html": "/Yerbamate-enjoyers-inc.git/index.html",
+    "main.ebc25852.css.map": "/Yerbamate-enjoyers-inc.git/static/css/main.ebc25852.css.map",
+    "main.3af272a3.js.map": "/Yerbamate-enjoyers-inc.git/static/js/main.3af272a3.js.map",
+    "453.d0cf7433.chunk.js.map": "/Yerbamate-enjoyers-inc.git/static/js/453.d0cf7433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebc25852.css",
-    "static/js/main.9681eec5.js"
+    "static/js/main.3af272a3.js"
   ]
 }
