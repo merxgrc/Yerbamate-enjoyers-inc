@@ -29,7 +29,7 @@ const SignUp = () => {
             </div>
             <div className="flex items-baseline justify-between">
               <button className="px-6 py-2 mt-4 text-white bg-primary rounded-lg hover:bg-blue-900">Sign Up</button>
-              <a href="#" className="text-sm text-primary hover:underline">Already have an account?</a>
+              <a href="/#" className="text-sm text-primary hover:underline">Already have an account?</a>
             </div>
           </div>
         </form>
