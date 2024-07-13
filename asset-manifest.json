@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yerbamate-enjoyers-inc/static/css/main.ebc25852.css",
-    "main.js": "/Yerbamate-enjoyers-inc/static/js/main.bfe81d48.js",
+    "main.js": "/Yerbamate-enjoyers-inc/static/js/main.a38195a3.js",
     "static/js/453.d0cf7433.chunk.js": "/Yerbamate-enjoyers-inc/static/js/453.d0cf7433.chunk.js",
     "index.html": "/Yerbamate-enjoyers-inc/index.html",
     "main.ebc25852.css.map": "/Yerbamate-enjoyers-inc/static/css/main.ebc25852.css.map",
-    "main.bfe81d48.js.map": "/Yerbamate-enjoyers-inc/static/js/main.bfe81d48.js.map",
+    "main.a38195a3.js.map": "/Yerbamate-enjoyers-inc/static/js/main.a38195a3.js.map",
     "453.d0cf7433.chunk.js.map": "/Yerbamate-enjoyers-inc/static/js/453.d0cf7433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebc25852.css",
-    "static/js/main.bfe81d48.js"
+    "static/js/main.a38195a3.js"
   ]
 }
